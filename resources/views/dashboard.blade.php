@@ -19,26 +19,29 @@
 
   <div class="row m-5">
     <div class="col-sm-4">
-      <div id="roll_dist_1" ></div>
       <figure class="highcharts-figure">
         <div id="distance1"></div>
       </figure>
     </div>
+
     <div class="col-sm-4">
       <figure class="highcharts-figure">
         <div id="distance2"></div>
      </figure>
     </div>
+
     <div class="col-sm-4">
       <figure class="highcharts-figure">
         <div id="distance3"></div>
       </figure>
     </div>
+
     <div class="col-sm-6">
       <figure class="highcharts-figure">
         <div id="roll_temp"></div>
       </figure>
     </div>
+
     <div class="col-sm-6">
       <figure class="highcharts-figure">
         <div id="dryZone_temp"></div>
